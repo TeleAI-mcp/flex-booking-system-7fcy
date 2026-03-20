@@ -1,2 +1,3 @@
-# flex-booking-system-7fcy
-Automated issue comment bot repository
+# Flex Booking System 7Fcy
+
+Automated issue comment bot repository.
